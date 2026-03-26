@@ -1,0 +1,23 @@
+{
+  "playlists": [
+    {
+      "id": "p1",
+      "name": "My Karaoke",
+      "description": "Test songs",
+      "coverUrl": "https://raw.githubusercontent.com/janzel2015/kaptenkaraoke/main/images/test.jpg",
+      "songs": [
+        {
+          "id": "test",
+          "title": "Test Song",
+          "artist": "Demo",
+          "duration": 180,
+          "coverUrl": "https://raw.githubusercontent.com/janzel2015/kaptenkaraoke/main/images/test.jpg",
+          "audioUrl": "https://raw.githubusercontent.com/janzel2015/kaptenkaraoke/main/songs/test.mp3",
+          "minusOneUrl": "",
+          "videoUrl": "",
+          "lyricsUrl": "https://raw.githubusercontent.com/janzel2015/kaptenkaraoke/main/lyrics/test.lrc"
+        }
+      ]
+    }
+  ]
+}
